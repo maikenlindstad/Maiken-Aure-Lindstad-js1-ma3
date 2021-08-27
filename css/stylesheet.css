@@ -1,0 +1,13 @@
+.error {
+  border: 2px solid darkred;
+  padding: 1rem;
+  background-color: brown;
+  color: white;
+}
+
+table,
+td {
+  width: 50%;
+  border: 1px solid black;
+  padding: 20px;
+}
