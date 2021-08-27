@@ -26,7 +26,7 @@ async function getInfo() {
                     <tr class="border">
                         <td>Name:</td>
                         <td>Rating:</td>
-                        <td>Amount of facts:</td>
+                        <td>Number of tags:</td>
                     </tr>
                     <tr>
                         <td>${facts[i].name}</td>
